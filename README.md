@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# Sales Data Warehouse with ETL Pipeline for Business Intelligence
 
 This project delivers a comprehensive data warehousing and analytics solution, transforming raw sales data into a structured data warehouse and generating actionable business insights.
 
